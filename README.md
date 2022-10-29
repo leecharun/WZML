@@ -47,7 +47,7 @@ List of features supported by bot
 ### 3. [***config.env Variables***](https://github.com/weebzone/WZML/wiki/Setting-up-the-config.env-file)
 List of Variables used by the Bot
 
-### 4. [***Deploy***](https://github.com/weebzone/WZML/wiki/Deployment)
+### 4. [***Deploy***](https://github.com/leecharun/WZML?organization=leecharun&organization=leecharun/wiki/Deployment)
 Steps to Deploy the Bot to Run for Yourself
 
 ---
